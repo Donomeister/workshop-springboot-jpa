@@ -7,5 +7,5 @@ import com.projetoteste.course.entities.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
-
+	
 }
